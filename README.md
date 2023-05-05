@@ -15,6 +15,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ## Showcase
 | Url | Type | Source code |
 |---|---|---|
+| [buildboard.app](https://www.buildboard.app) | website |  |
 | [repobullet.in](https://repobullet.in) | website |  |
 | [voicefu.com](https://voicefu.com) | website |  |
 
