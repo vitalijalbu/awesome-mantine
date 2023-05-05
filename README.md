@@ -12,7 +12,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Type: Specify what the project is about, website, ecommerce, library, other.
 - Github Url: Publically viewable source code
 
-## Showcase
+---
+
 | Url | Type | Source code |
 |---|---|---|
 | [buildboard.app](https://www.buildboard.app) | website |  |
