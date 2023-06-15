@@ -26,6 +26,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [Mantine UI](https://ui.mantine.dev/) | components | [:octocat:](https://github.com/mantinedev/ui.mantine.dev) |
 | [Mantine DataTable](https://icflorescu.github.io/mantine-datatable) | components | [:octocat:](https://github.com/icflorescu/mantine-datatable) |
 | [Mantine React Table](https://www.mantine-react-table.com/) | components | [:octocat:](https://github.com/KevinVandy/mantine-react-table) |
+| [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu) | components | [:octocat:](https://github.com/icflorescu/mantine-contextmenu) |
 
 ---
 ### Notes
