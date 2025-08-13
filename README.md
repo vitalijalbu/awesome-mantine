@@ -19,7 +19,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 | [buildboard.app](https://www.buildboard.app) | website |  |
 | [repobullet.in](https://repobullet.in) | website |  |
 | [voicefu.com](https://voicefu.com) | website |  |
-| [github.com](https://github.com/GuntharDeNiro/gunbot-quant) | application |  |
+| [github.com/GuntharDeNiro/gunbot-quant](https://github.com/GuntharDeNiro/gunbot-quant) | application |  |
 
 ## Other
 | Url | Type | Source code |
